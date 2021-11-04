@@ -37,4 +37,4 @@ FISCO BCOS智能合约兴趣小组（Smart contract Special Interest Group @FISC
 - 熟悉Git等开源工具使用，具有一定的责任感
 
 
-小组成员招募中，欢迎联系小助手加入我们。
+小组成员招募中，非常欢迎联系小助手加入我们。
